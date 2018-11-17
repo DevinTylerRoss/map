@@ -1,0 +1,37 @@
+.marker img{
+    
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    width: 75px;
+ }
+ .selected img {
+   width: 125px;
+ }
+
+ .small {
+     width: 75px;
+ }
+
+ .infoWindow {
+     background-color: white;
+     width: 250px;
+     height: 100px;
+     visibility: hidden;
+     font-family: 'Mali', cursive;
+    
+ }
+
+ .name {
+    font-family: 'Fredoka One', cursive;
+ }
+
+ .selected div {
+    background-color: pink;
+    visibility: visible;
+    padding: 5px;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 15px;
+ }
+ 
